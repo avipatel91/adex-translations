@@ -1,0 +1,13 @@
+{
+  "name": "adex-translations",
+  "version": "0.0.1",
+  "description": "Translation strings used for Adex dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
