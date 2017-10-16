@@ -1,5 +1,15 @@
 {
-	"ADVERTISER": "Advertiser",
-	"PUBLISHER": "Publisher",
-	"PROP_FULLNAME": "Full name"
+	"ADVERTISER": "Рекламодател",
+	"PUBLISHER": "Издател",
+	"DASHBOARD": "Табло",
+	"PROP_FULLNAME": "Име",
+	"PROP_NAME": "Име",
+	"PROP_IMG": "Url на изображението",
+	"PROP_DESCRIPTION": "Описание",
+	"PROP_FROM": "Начална дата",
+	"PROP_TO": "Крайна дата",
+	"PROP_BANNER": "Банер",
+	"PROP_SIZE": "Големина",
+	"PROP_ADTYPE": "Вид на рекламата",
+	"PROP_GENDER": "Пол"
 }

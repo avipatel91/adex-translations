@@ -1,6 +1,16 @@
 {
     "ADVERTISER": "Advertiser",
     "PUBLISHER": "Publisher",
+    "DASHBOARD": "Dashboard",
 
-    "PROP_FULLNAME": "Full name"
+    "PROP_FULLNAME": "Name",
+    "PROP_NAME": "Name",
+    "PROP_IMG": "Image url",
+    "PROP_DESCRIPTION": "Description",
+    "PROP_FROM": "Start date",
+    "PROP_TO": "End Date",
+    "PROP_BANNER": "Banner",
+    "PROP_SIZE": "Size",
+    "PROP_ADTYPE": "Advertising type",
+    "PROP_GENDER": "Gender"
 }
