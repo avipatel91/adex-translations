@@ -72,9 +72,9 @@
 	"TARGET": "Target",
 	"WEIGHT": "Weight",
 	"DRAG_AND_DROP_TO_UPLOAD": "Drag and drop or click here to upload",
-	"REQUIRED_FIELD": "This field is required",
-	"MIN_LENGTH_4": "The field must be at least 4 characters long",
-	"MAX_LENGTH_128": "The field must be no more than 128 characters long",
+	
+	
+	
 	"UNIT_BANNER": "Unit banner",
 	"CAMPAIGN_LOGO": "Campaign logo",
 	"SLOT_PREVIEW": "Slot preview",
